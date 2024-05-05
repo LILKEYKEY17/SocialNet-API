@@ -105,13 +105,6 @@ After installation :
 - [Mongoose](https://mongoosejs.com/)
 - [Insomnia](https://insomnia.rest/)
 - [Moment.js](https://www.npmjs.com/package/moment)
-
-## Tests
-
-Insomnia is used to test REST API calls. Please see the walk-through demonstration videos: https://drive.google.com/file/d/1MQ2WUP7RbTJPUuadVkVzzmjbWWJe8IWU/view as well as the sections on Description and Usage to see how data is added and tested using Insomnia.
-
-On Insomnia, the following API routes have been created and used to add, update, or remove users, friends, thoughts, and reactions in the user's database.
-
 📁 **USER**
 
 - Create a new user: `POST /api/users`
